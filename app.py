@@ -17,7 +17,7 @@ MODEL_SAVE_PATH = os.path.join(PROJECT_PATH, MODEL_FILENAME)
 # --- GOOGLE DRIVE FILE ID ---
 # Google Drive-тағы модель файлының ID-і.
 # Бұл модельді қайта оқытпас үшін қажет.
-GDRIVE_FILE_ID = '/1WtTyXAagScTIYo63_cFUm81_wv6eynIU/' # <<<--- ОСЫ ЖЕРГЕ ФАЙЛ ID-ІҢІЗДІ ҚОЙЫҢЫЗ!
+GDRIVE_FILE_ID = '1WtTyXAagScTIYo63_cFUm81_wv6eynIU' # <<<--- ОСЫ ЖЕРГЕ ФАЙЛ ID-ІҢІЗДІ ҚОЙЫҢЫЗ!
 
 # Түстерді анықтау (Легенда үшін)
 class_colors = np.array([
